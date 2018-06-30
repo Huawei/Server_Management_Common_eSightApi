@@ -8,6 +8,7 @@ import com.huawei.esight.bean.Esight;
 public class EsightHelper {
     public static Esight getEsight() {
 //        return new Esight("192.168.10.72", 32102, "openApiUser", "Simple.0");
-        return new Esight("192.168.11.35", 32102, "openApiUser", "Simple.0");
+//        return new Esight("192.168.11.35", 32102, "openApiUser", "Simple.0");
+        return new Esight("192.168.10.84", 32102, "openApiUser", "Simple.0");
     }
 }
